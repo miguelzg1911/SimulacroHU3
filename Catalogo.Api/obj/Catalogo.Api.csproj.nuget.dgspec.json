@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj": {}
+  },
+  "projects": {
+    "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj",
+        "projectName": "Catalogo.Api",
+        "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj",
+        "packagesPath": "/home/cohorte4/.nuget/packages/",
+        "outputPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cohorte4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj": {
+                "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj"
+              },
+              "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj": {
+                "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cohorte4/.dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj",
+        "projectName": "Catalogo.Application",
+        "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj",
+        "packagesPath": "/home/cohorte4/.nuget/packages/",
+        "outputPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cohorte4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj": {
+                "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cohorte4/.dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj",
+        "projectName": "Catalogo.Domain",
+        "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj",
+        "packagesPath": "/home/cohorte4/.nuget/packages/",
+        "outputPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cohorte4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cohorte4/.dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj",
+        "projectName": "Catalogo.Infrastructure",
+        "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj",
+        "packagesPath": "/home/cohorte4/.nuget/packages/",
+        "outputPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/cohorte4/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj": {
+                "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/Catalogo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/cohorte4/.dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

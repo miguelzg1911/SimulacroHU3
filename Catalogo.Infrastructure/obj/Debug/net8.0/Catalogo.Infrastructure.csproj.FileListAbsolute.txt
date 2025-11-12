@@ -1,0 +1,33 @@
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.deps.json
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.runtimeconfig.json
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.pdb
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.csproj.AssemblyReference.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.AssemblyInfoInputs.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.AssemblyInfo.cs
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.sourcelink.json
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.3A12E00E.Up2Date
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/refint/Catalogo.Infrastructure.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.pdb
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.genruntimeconfig.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/ref/Catalogo.Infrastructure.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.deps.json
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Infrastructure.pdb
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Domain.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/bin/Debug/net8.0/Catalogo.Domain.pdb
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.csproj.AssemblyReference.cache
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.AssemblyInfoInputs.cache
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.AssemblyInfo.cs
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.3A12E00E.Up2Date
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/refint/Catalogo.Infrastructure.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/Catalogo.Infrastructure.pdb
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/obj/Debug/net8.0/ref/Catalogo.Infrastructure.dll

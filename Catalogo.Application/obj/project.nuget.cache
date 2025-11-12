@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1ygbmq8nm4=",
+  "success": true,
+  "projectFilePath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/cohorte4/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/home/cohorte4/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0/microsoft.extensions.configuration.abstractions.10.0.0.nupkg.sha512",
+    "/home/cohorte4/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0/microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "/home/cohorte4/.nuget/packages/microsoft.extensions.primitives/10.0.0/microsoft.extensions.primitives.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

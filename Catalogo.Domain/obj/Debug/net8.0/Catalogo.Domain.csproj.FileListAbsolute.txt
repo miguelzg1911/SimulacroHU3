@@ -1,0 +1,23 @@
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.deps.json
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.AssemblyInfoInputs.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.AssemblyInfo.cs
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.sourcelink.json
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/refint/Catalogo.Domain.dll
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Descargas/C---Ruta-Avanzada/Modulo 2/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/ref/Catalogo.Domain.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.deps.json
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/bin/Debug/net8.0/Catalogo.Domain.pdb
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.AssemblyInfoInputs.cache
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.AssemblyInfo.cs
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.csproj.CoreCompileInputs.cache
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/refint/Catalogo.Domain.dll
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/Catalogo.Domain.pdb
+/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Domain/obj/Debug/net8.0/ref/Catalogo.Domain.dll
