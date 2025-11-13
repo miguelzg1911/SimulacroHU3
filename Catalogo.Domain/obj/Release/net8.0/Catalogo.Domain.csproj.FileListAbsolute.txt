@@ -1,0 +1,12 @@
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/Catalogo.Domain.deps.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.AssemblyInfoInputs.cache
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.AssemblyInfo.cs
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.sourcelink.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/refint/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/obj/Release/net8.0/ref/Catalogo.Domain.dll

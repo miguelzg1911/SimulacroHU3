@@ -569,7 +569,10 @@
           "BCrypt.Net-Next": "4.0.3",
           "Catalogo.Domain": "1.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "10.0.0",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0",
+          "Microsoft.IdentityModel.JsonWebTokens": "8.14.0",
+          "Microsoft.IdentityModel.Tokens": "8.14.0",
+          "System.IdentityModel.Tokens.Jwt": "8.14.0"
         },
         "compile": {
           "bin/placeholder/Catalogo.Application.dll": {}
@@ -1551,19 +1554,19 @@
     ]
   },
   "packageFolders": {
-    "/home/cohorte4/.nuget/packages/": {}
+    "/home/miguelzapata/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj",
+      "projectUniqueName": "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Api/Catalogo.Api.csproj",
       "projectName": "Catalogo.Api",
-      "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/Catalogo.Api.csproj",
-      "packagesPath": "/home/cohorte4/.nuget/packages/",
-      "outputPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Api/obj/",
+      "projectPath": "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Api/Catalogo.Api.csproj",
+      "packagesPath": "/home/miguelzapata/.nuget/packages/",
+      "outputPath": "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/cohorte4/.nuget/NuGet/NuGet.Config"
+        "/home/miguelzapata/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -1575,11 +1578,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj": {
-              "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Application/Catalogo.Application.csproj"
+            "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/Catalogo.Application.csproj": {
+              "projectPath": "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/Catalogo.Application.csproj"
             },
-            "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj": {
-              "projectPath": "/home/cohorte4/Descargas/Simulacro HU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj"
+            "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj": {
+              "projectPath": "/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/Catalogo.Infrastructure.csproj"
             }
           }
         }
@@ -1593,7 +1596,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1639,6 +1643,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[8.0.21, 8.0.21]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.21, 8.0.21]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1647,7 +1665,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/cohorte4/.dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/miguelzapata/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

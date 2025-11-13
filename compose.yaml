@@ -1,0 +1,7 @@
+﻿services:
+  catalogo.api:
+    image: catalogo.api
+    build:
+      context: .
+      dockerfile: Catalogo.Api/Dockerfile
+

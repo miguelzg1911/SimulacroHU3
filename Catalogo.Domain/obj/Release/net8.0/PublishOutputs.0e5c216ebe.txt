@@ -1,0 +1,3 @@
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/publish/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/publish/Catalogo.Domain.deps.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Domain/bin/Release/net8.0/publish/Catalogo.Domain.pdb

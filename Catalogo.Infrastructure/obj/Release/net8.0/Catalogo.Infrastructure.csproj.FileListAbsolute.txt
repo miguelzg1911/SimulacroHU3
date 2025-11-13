@@ -1,0 +1,16 @@
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/bin/Release/net8.0/Catalogo.Infrastructure.deps.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/bin/Release/net8.0/Catalogo.Infrastructure.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/bin/Release/net8.0/Catalogo.Infrastructure.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/bin/Release/net8.0/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/bin/Release/net8.0/Catalogo.Domain.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.csproj.AssemblyReference.cache
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.AssemblyInfoInputs.cache
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.AssemblyInfo.cs
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.csproj.CoreCompileInputs.cache
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.sourcelink.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.3A12E00E.Up2Date
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/refint/Catalogo.Infrastructure.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/Catalogo.Infrastructure.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Infrastructure/obj/Release/net8.0/ref/Catalogo.Infrastructure.dll

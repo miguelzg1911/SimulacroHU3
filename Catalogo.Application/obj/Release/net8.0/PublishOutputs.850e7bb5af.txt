@@ -1,0 +1,13 @@
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Catalogo.Application.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Catalogo.Application.deps.json
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Catalogo.Application.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/BCrypt.Net-Next.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Microsoft.Extensions.Primitives.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Catalogo.Domain.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Microsoft.IdentityModel.Tokens.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/System.IdentityModel.Tokens.Jwt.dll
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Catalogo.Domain.pdb
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/Microsoft.IdentityModel.Tokens.xml
+/home/miguelzapata/Imágenes/SimulacroHU3/Catalogo.Application/bin/Release/net8.0/publish/System.IdentityModel.Tokens.Jwt.xml
