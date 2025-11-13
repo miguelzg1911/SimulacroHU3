@@ -9,31 +9,30 @@ using Catalogo.Infrastructure.Data;
 using Catalogo.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Configuration.AddEnvironmentVariables();
 
 // Conexion Base De Datos
-// Variables de entorno
+    // Variables de entorno
 
-var connectionString = Environment.GetEnvironmentVariable("MYSQL_CONNECTION_STRING");
+var connectionString = Environment.GetEnvironmentVariable("MYSQL_CONNECTION_STRING")
+                           ?? builder.Configuration.GetConnectionString("DefaultConnection");
+var jwtKey = Environment.GetEnvironmentVariable("JWT_KEY");
+var jwtIssuer = Environment.GetEnvironmentVariable("JWT_ISSUER") ?? builder.Configuration["Jwt:Issuer"];
+var jwtAudience = Environment.GetEnvironmentVariable("JWT_AUDIENCE") ?? builder.Configuration["Jwt:Audience"];
 
-if (string.IsNullOrEmpty(connectionString))
-{
-    connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
-}
+Console.WriteLine($"🔑 JWT_KEY: {(string.IsNullOrEmpty(jwtKey) ? "NO ENCONTRADO" : "OK")}");
+Console.WriteLine($"📢 JWT_ISSUER: {(string.IsNullOrEmpty(jwtIssuer) ? "NO ENCONTRADO" : jwtIssuer)}");
+Console.WriteLine($"🎯 JWT_AUDIENCE: {(string.IsNullOrEmpty(jwtAudience) ? "NO ENCONTRADO" : jwtAudience)}");
 
 builder.Services.AddDbContext<AppDbContext>(options => 
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString))
 );
-
-
-var jwtKey = Environment.GetEnvironmentVariable("JWT_KEY");
 
 if (string.IsNullOrEmpty(jwtKey))
 {
     jwtKey = builder.Configuration["Jwt:Key"];
 }
 
-var jwtIssuer = Environment.GetEnvironmentVariable("JWT_ISSUER") ?? builder.Configuration["Jwt:Issuer"];
-var jwtAudience = Environment.GetEnvironmentVariable("JWT_AUDIENCE") ?? builder.Configuration["Jwt:Audience"];
 
 // Inyeccion de dependencias
 builder.Services.AddScoped<IUserRepository, UserRepository>();
@@ -46,6 +45,10 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
+        if (string.IsNullOrEmpty(jwtKey))
+        {
+            throw new Exception("JWT_KEY no está definida en variables de entorno ni en appsettings.json");
+        }
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
@@ -53,10 +56,10 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true, 
             ClockSkew = TimeSpan.Zero,
-            ValidIssuer = builder.Configuration["Jwt:Issuer"],
-            ValidAudience = builder.Configuration["Jwt:Audience"],
+            ValidIssuer = jwtIssuer,
+            ValidAudience = jwtAudience,
             IssuerSigningKey = new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes(jwtKey!)
+                Encoding.UTF8.GetBytes(jwtKey)
             )
         };
     });
